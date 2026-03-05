@@ -43,7 +43,7 @@ Users can explore dishes, add items to their cart, and place orders through a si
 
 ## 🔗 Live Demo
 
-👉 link to add
+👉 https://julietcafe.netlify.app/
 
 ---
 
