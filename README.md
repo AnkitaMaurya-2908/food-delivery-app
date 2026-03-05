@@ -71,6 +71,10 @@ Users can explore dishes, add items to their cart, and place orders through a si
 
 ---
 
+### 📌 Note
+
+This project was built as a learning exercise by following a YouTube tutorial while practicing React concepts such as components, state management, and cart functionality.
+
 ### 👩‍💻 Author
 
 **Ankita Maurya**
